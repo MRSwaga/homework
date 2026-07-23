@@ -1,9 +1,9 @@
-package dev.mrswaga.module01.CalculatorApp;
+package dev.mrswaga.module01.calculator;
 
 import java.util.Scanner;
 
-public class CLI {
-    static void main() {
+public class CalculatorApp {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Ожидается первое число: ");
