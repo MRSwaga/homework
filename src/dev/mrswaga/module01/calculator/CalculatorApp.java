@@ -1,4 +1,4 @@
-package dev.MRSwaga.module01.taskrunner;
+package dev.mrswaga.module01.CalculatorApp;
 
 import java.util.Scanner;
 
